@@ -6,3 +6,5 @@ It generates
 - service
 - interface
 - cmd to run on terminal to create needed files
+
+https://tools.rayongeek.com/ng-generator/
